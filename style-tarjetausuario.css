@@ -1,0 +1,40 @@
+.container {
+    background-color: #ffffff;
+    border: 5px #cccccc;
+    border-style: solid;
+    width: 700px;
+    height: 370px;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+.header {
+    background-color: hsl(188deg 78% 41%);
+    height: 100px;
+}
+.info {
+    padding-left: 25px;
+    margin-top: 45px;
+}
+.img0 {
+    width: 80px;
+    height: 80px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color:#cccccc;
+    position: absolute;
+    top: 115px;
+}
+.img1 {
+    width: 15px;
+    height: 20px;
+}
+.img2 {
+    width: 15px;
+    height: 15px;
+}
+
+.underline {
+    text-decoration: underline;
+    color: hsl(208deg 82% 33%);
+}
